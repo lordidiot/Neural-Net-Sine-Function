@@ -1,5 +1,6 @@
 # Neural-Net-Sine-Function
 First(ish) attempt at making a Neural Net. Trained it to act like a sine function with a genetic algorithm.
+Created after reading tutorials made by [AI-JUNKIE](http://www.ai-junkie.com/). Being my first(ish) attempt, this may be very poorly coded.
 
 # Training Data
 Below is the training set provided to the Neural nets (values are at most 6 d.p.).
@@ -20,3 +21,6 @@ The Neural Nets were given 8 values[x] and their corresponding sine values[sin(x
 
    1. The Neural Nets were unable to accurately approximate the value of sin(x) for the domain x > π, this is likely because the training data provided only ranged from 0 >= x >= π.
    2. When an additional sigmoid function was applied to the output neuron (the output neuron usually doesn't undergo an activation function), the Neural Nets even without training would have their scores be around 3 ( 3/8 average difference from actual answer ).
+
+
+# Screenshots
