@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1478690106 source:c:\users\calvin\desktop\cpp shit\nn_sine_3\cneuralnet.cpp
+	"CNeuralNet.h"
+
+1478607068 c:\users\calvin\desktop\cpp shit\nn_sine_3\cneuralnet.h
+	<vector>
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1478683005 source:c:\users\calvin\desktop\cpp shit\nn_sine_3\main.cpp
+	<iostream>
+	"CChromosome.h"
+	"CNeuralNet.h"
+	<time.h>
+
+1478671817 c:\users\calvin\desktop\cpp shit\nn_sine_3\cchromosome.h
+	"CNeuralNet.h"
+	<cstdlib>
+	<vector>
+
+1478672922 source:c:\users\calvin\desktop\cpp shit\nn_sine_3\cchromosome.cpp
+	"CChromosome.h"
+
