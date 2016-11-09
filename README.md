@@ -2,6 +2,8 @@
 First(ish) attempt at making a Neural Net. Trained it to act like a sine function with a genetic algorithm.
 Created after reading tutorials made by [AI-JUNKIE](http://www.ai-junkie.com/). Being my first(ish) attempt, this may be very poorly coded.
 
+Note : Apparently I heard that the individual neural nets are supposed to be called genomes, but I had named them chromosomes instead (horrible at bio), hope you don't mind.
+
 # Training Data
 Below is the training set provided to the Neural nets (values are at most 6 d.p.).
 
