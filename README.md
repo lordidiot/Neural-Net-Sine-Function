@@ -26,5 +26,5 @@ The Neural Nets were given 8 values[x] and their corresponding sine values[sin(x
 
 
 # Screenshots
-![ss2](https://raw.githubusercontent.com/lordidiot/Neural-Net-Sine-Function/master/stuff/ss2.png)]
-![ss1](https://raw.githubusercontent.com/lordidiot/Neural-Net-Sine-Function/master/stuff/ss1.png)]
+![ss2](https://raw.githubusercontent.com/lordidiot/Neural-Net-Sine-Function/master/stuff/ss2.png)
+![ss1](https://raw.githubusercontent.com/lordidiot/Neural-Net-Sine-Function/master/stuff/ss1.png)
